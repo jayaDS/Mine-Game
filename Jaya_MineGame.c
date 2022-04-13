@@ -1,5 +1,6 @@
 // Mine Game is the game where player has to guess non mine locations till he reaches required score to win
 // else if a player press mine location the game terminate and player looses the game
+//  Mines placed at : (0,1),(1,3),(2,2),(3,0)
 #include<graphics.h>
 
 #include<stdio.h>
